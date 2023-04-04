@@ -1,0 +1,12 @@
+.review-item{
+    width: 571px;
+    border: 1px solid green;
+    padding: 8px;
+    margin: 25px;
+    height: 107px ;
+    border-radius: 8px ;
+}
+.review-item img{
+    width: 91px;
+    height: 91px;
+}
